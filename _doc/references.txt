@@ -1,0 +1,12 @@
+Wikle, C.K. and Berliner, L.M., 2007. A Bayesian tutorial for data assimilation. Physica D: Nonlinear Phenomena, 230(1-2), pp.1-16.
+
+Hengl, T., Heuvelink, G.B. and Rossiter, D.G., 2007. About regression-kriging: From equations to case studies. Computers & geosciences, 33(10), pp.1301-1315.
+
+de Baar, J., Garcia-Marti, I. and van der Schrier, G., 2022. Spatial regression of multi-fidelity meteorological observations using a proxy-based measurement error model (No. EMS2022-53). Copernicus Meetings.
+
+de Baar, J.H.S., Garcia-Marti, I, 2022. Recent improvements 75 in spatial regression of climate data. NATO-AVT-354 workshop on multi-fidelitymethods for military vehicle design, Varna, Bulgaria, 26–28 September 2022.
+
+van Beekvelt, D., 2022. Multi-fidelity spatial regression for air temperature predictions using first, second and third party data. Utrecht
+University, MSc thesis.
+
+High-resolution covariates: CBS (https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/)

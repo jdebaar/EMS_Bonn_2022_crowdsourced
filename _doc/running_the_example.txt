@@ -1,0 +1,30 @@
+requirement: octave
+https://octave.org/download
+
+========================
+== LINUX command line ==
+========================
+
+cd into main_wind
+
+> octave
+
+> run main
+
+if prompted for missing packages, install them:
+
+> pkg install -forge <package_name>
+
+=================
+== WINDOWS GUI ==
+=================
+
+go to directory main_wind
+
+double-click main.m
+
+press 'run' button
+
+if prompted for missing packages, install them:
+
+> pkg install -forge <package_name>
